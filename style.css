@@ -85,6 +85,11 @@ div.fadeIn {
   opacity: 1;
   pointer-events: all;
 }
+footer{
+  background-color: black;
+  color:white;
+  text-align:center;
+}
 
 @keyframes shakePlayer {
   0% {
